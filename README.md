@@ -40,7 +40,7 @@ class Divyesh:
 
 | Domain | Tools & Tech |
 |--------|-------------|
-| **GenAI / LLM** | GPT-4, LangChain, Agentic AI, Prompt Engineering |
+| **GenAI / LLM** | GPT-5.4, LangChain, Agentic AI, Prompt Engineering |
 | **RAG Pipelines** | FAISS, ChromaDB, OpenAI Embeddings |
 | **OCR / NLP** | Tesseract, spaCy, Document Automation |
 | **Backend** | Django, DRF, REST APIs, Microservices |
@@ -51,7 +51,7 @@ class Divyesh:
 
 ### 🚀 Featured Projects
 
-**🤖 GenAI PDF Chatbot** — GPT-4 + LangChain · PDF chunking → embeddings → Q&A · Django + React
+**🤖 GenAI PDF Chatbot** — GPT-5.4 + LangChain · PDF chunking → embeddings → Q&A · Django + React
 
 **⚖️ Agentic AI Legal System** — OCR + NLP doc automation · Async Redis pipelines · Dockerized microservices
 
