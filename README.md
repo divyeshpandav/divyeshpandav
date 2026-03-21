@@ -45,15 +45,32 @@ class AIEngineer:
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/divyesh-pandav/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <!-- EMAIL -->
+
+  <a href="mailto:Divyeshpandav1999@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
+  <!-- LINKEDIN -->
+
+  <a href="https://www.linkedin.com/in/divyesh-pandav/" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect%20Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- UPWORK -->
+
   <a href="https://www.upwork.com/freelancers/divyeshpandav" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+    <img src="https://img.shields.io/badge/🟢%20Upwork-View%20Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+
+  <!-- HIRE ME (points to Upwork) -->
+
+  <a href="https://www.upwork.com/freelancers/divyeshpandav" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Hire%20Me-Available%20Now-brightgreen?style=for-the-badge" />
   </a>
 
 </p>
+
 
 ---
 
