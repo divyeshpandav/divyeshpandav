@@ -1,182 +1,101 @@
-<!-- ======================= HEADER ======================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Divyesh%20Pandav&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Divyesh%20Pandav&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20Developer&descSize=16&descAlignY=58&descColor=a78bfa" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+GenAI+Developer;Django+Backend+Specialist;Building+LLM+%2B+RAG+Systems;Cloud+%2B+Microservices+Architecture" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+LLM+%2B+RAG+Systems;Agentic+AI+%7C+Django+Backend;Cloud-Native+AI+Architecture;M.Tech+%E2%80%94+IIT+Patna" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divyeshpandav&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+  <a href="mailto:Divyeshpandav1999@gmail.com">
+    <img src="https://img.shields.io/badge/─%20Gmail%20─-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/divyesh-pandav/">
+    <img src="https://img.shields.io/badge/─%20LinkedIn%20─-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.upwork.com/freelancers/divyeshpandav">
+    <img src="https://img.shields.io/badge/─%20Upwork%20─-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=divyeshpandav&style=flat-square&color=6d28d9&label=profile+views" />
 </p>
 
 ---
 
-# 🧠 AI Developer DNA
-
 ```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Divyesh Pandav"
-        self.role = "AI Engineer | GenAI Developer"
-        self.skills = ["Django", "LLMs", "RAG", "Cloud"]
-        self.focus = "Building scalable AI systems 🚀"
-
-    def mission(self):
-        return "Turning complex problems into intelligent solutions"
+class Divyesh:
+    role    = "AI Engineer · GenAI Developer · Django Backend"
+    edu     = "M.Tech Cloud Computing — IIT Patna"
+    stack   = ["LLMs", "RAG", "Agentic AI", "Django", "AWS/GCP/Azure"]
+    now     = "Shipping LLM-powered APIs & scalable cloud systems"
 ```
 
 ---
 
-# 🚀 About Me
+### ⚡ Core Expertise
 
-* 🎓 M.Tech in Cloud Computing (IIT Patna)
-* 🤖 AI/ML + GenAI Developer
-* 🔥 Built **Agentic AI + RAG + OCR systems**
-* ⚙️ Backend Expert (Django, DRF, APIs)
-* ☁️ Cloud: AWS | GCP | Azure
-* 🧠 Focus: LLM Apps, Microservices, Scalable Systems
+| Domain | Tools & Tech |
+|--------|-------------|
+| **GenAI / LLM** | GPT-4, LangChain, Agentic AI, Prompt Engineering |
+| **RAG Pipelines** | FAISS, ChromaDB, OpenAI Embeddings |
+| **OCR / NLP** | Tesseract, spaCy, Document Automation |
+| **Backend** | Django, DRF, REST APIs, Microservices |
+| **Async & Queue** | Redis, Celery, Event-driven Architecture |
+| **Cloud & DevOps** | AWS · GCP · Azure · Docker · CI/CD |
 
 ---
 
-# 🌐 Connect With Me
+### 🚀 Featured Projects
+
+**🤖 GenAI PDF Chatbot** — GPT-4 + LangChain · PDF chunking → embeddings → Q&A · Django + React
+
+**⚖️ Agentic AI Legal System** — OCR + NLP doc automation · Async Redis pipelines · Dockerized microservices
+
+**🔍 AI Search Engine** — Apache Solr + Python indexing · High-speed scalable retrieval
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-
-  <!-- EMAIL -->
-
-  <a href="mailto:Divyeshpandav1999@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <!-- LINKEDIN -->
-
-  <a href="https://www.linkedin.com/in/divyesh-pandav/" target="_blank">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect%20Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <!-- UPWORK -->
-
-  <a href="https://www.upwork.com/freelancers/divyeshpandav" target="_blank">
-    <img src="https://img.shields.io/badge/🟢%20Upwork-View%20Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
-  </a>
-
-  <!-- HIRE ME (points to Upwork) -->
-
-  <a href="https://www.upwork.com/freelancers/divyeshpandav" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Hire%20Me-Available%20Now-brightgreen?style=for-the-badge" />
-  </a>
-
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=divyeshpandav&theme=midnight-purple&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
+  &nbsp;
 </p>
 
-
----
-
-# ⚙️ Tech Stack
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,react,js,postgres,mongodb,docker,aws,gcp,redis" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyeshpandav&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a78bfa&line=7c3aed&point=ffffff" />
 </p>
 
 ---
 
-# 🔥 AI / GenAI Expertise
-
-* 🤖 RAG Pipelines (LangChain + FAISS + ChromaDB)
-* 📄 OCR + NLP Automation (Tesseract + spaCy)
-* 🧠 LLM Apps (OpenAI GPT-4, Agentic AI)
-* ⚙️ Microservices + Async (Redis + Celery)
-* ☁️ Cloud Deployments (AWS / GCP / Azure)
-
----
-
-# 🚀 Featured Projects
-
-### 🤖 GenAI PDF Chatbot
-
-* GPT-4 + LangChain powered assistant
-* PDF → chunking → embeddings → Q&A
-* Django + React full-stack system
-
-### ⚖️ Agentic AI Legal System
-
-* OCR + NLP document automation
-* Async pipelines with Redis
-* Dockerized microservices architecture
-
-### 🔍 AI Search Engine
-
-* Apache Solr + Python indexing
-* Scalable and high-speed retrieval system
-
----
-
-# 🏆 Achievements
+### 🛠 Tech Stack
 
 <p align="center">
-
-  <img src="https://img.shields.io/badge/🦈%20Pull%20Shark-x2-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⚡%20Quickdraw-Achieved-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎯%20YOLO-Achieved-orange?style=for-the-badge" />
-
-</p>
-
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyeshpandav&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,postgres,mongodb,redis,docker,aws,gcp&theme=dark" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+### 🏅 Achievements
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyeshpandav&theme=react-dark" />
+  <img src="https://img.shields.io/badge/Pull%20Shark-×2-6d28d9?style=flat-square&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Quickdraw-Achieved-7c3aed?style=flat-square&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/YOLO-Achieved-8b5cf6?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 ---
 
-# 🌌 Contribution Universe
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyeshpandav&theme=github_dark" />
+  <img src="https://raw.githubusercontent.com/divyeshpandav/divyeshpandav/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
-
-# 🧠 Dynamic Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
----
-
-# 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/divyeshpandav/divyeshpandav/output/github-contribution-grid-snake.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=80&section=footer" />
 </p>
-
----
-
-# ⚡ Developer Philosophy
-
-> "I don't just write code — I build intelligent, scalable systems."
-
----
-
-# 🚀 Current Focus
-
-* 🔥 Building Agentic AI Systems
-* 🧠 LLM-powered APIs
-* ⚙️ Scalable Django Backends
-* ☁️ Cloud-native AI solutions
-
----
