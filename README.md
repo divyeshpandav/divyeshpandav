@@ -116,8 +116,13 @@ class AIEngineer:
 # 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divyeshpandav&theme=algolia&no-frame=true&row=1&column=6" />
+
+  <img src="https://img.shields.io/badge/🦈%20Pull%20Shark-x2-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡%20Quickdraw-Achieved-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯%20YOLO-Achieved-orange?style=for-the-badge" />
+
 </p>
+
 
 ---
 
