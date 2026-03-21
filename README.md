@@ -44,17 +44,15 @@ class AIEngineer:
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:Divyeshpandav1999@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+
+  <a href="https://www.linkedin.com/in/divyesh-pandav/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/divyesh-pandav/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.upwork.com/freelancers/divyeshpandav" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
 
-  <a href="https://www.upwork.com/freelancers/~01e390dd97a970b8c7">
-    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-green?style=for-the-badge&logo=upwork"/>
-  </a>
 </p>
 
 ---
